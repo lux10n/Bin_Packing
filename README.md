@@ -8,4 +8,4 @@ Python 3 (might work with Python 2 too), and native Python libraries
 
 ## More details
 
-If there's some bugs or sthg, just open an issue.
+If there're some bugs or sthg, just open an issue.
